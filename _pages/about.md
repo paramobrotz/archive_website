@@ -17,8 +17,10 @@ I am a PhD Candidate in the [Economics Department](https://www.econ.berkeley.edu
 
 ### Targeting Impact versus Deprivation
 With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://emiguel.econ.berkeley.edu/), [Michael Walker](http://www.michaelwwalker.me/) and [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/)  
- 
-NBER Working Paper [No. 30138](https://www.nber.org/papers/w30138) June 2022
+
+[R&R, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf)
+
+Should anti-poverty programs be targeted solely to the most deprived, or also to the most impacted households?
 
 ## Other projects
 
