@@ -12,22 +12,6 @@ I am a PhD Candidate in the [Economics Department](https://www.econ.berkeley.edu
 <br clear="right"/>
 <br> My research interests are development economics, industrial organization and healthcare economics. 
 
-
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
-redirect from:
-  - /research.html
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
-
 ## Working Papers 
 
 ### Who calls the shots? How financial incentives impact the adoption of a new health technology
