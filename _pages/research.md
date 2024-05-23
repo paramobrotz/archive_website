@@ -15,7 +15,8 @@ redirect from:
 
 ## Working Papers 
 
-### Who calls the shots? How financial incentives impact the adoption of a new health technology (Job Market Paper)
+### Who calls the shots? How financial incentives impact the adoption of a new health technology
+Job Market Paper
 
 ### Targeting Impact versus Deprivation
 With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://emiguel.econ.berkeley.edu/), [Michael Walker](http://www.michaelwwalker.me/) and [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/)  
