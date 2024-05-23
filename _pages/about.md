@@ -13,13 +13,31 @@ I am a PhD Candidate in the [Economics Department](https://www.econ.berkeley.edu
 <br> My research interests are development economics, industrial organization and healthcare economics. 
 
 
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect from:
+  - /research.html
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+
+
 ## Working Papers 
+
+### Who calls the shots? How financial incentives impact the adoption of a new health technology
+Job Market Paper
 
 ### Targeting Impact versus Deprivation
 With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://emiguel.econ.berkeley.edu/), [Michael Walker](http://www.michaelwwalker.me/) and [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/)  
 
 R&R, American Economic Review
-<!-- [R&R, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf) -->
+[R&R, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf)
 
 Should anti-poverty programs be targeted solely to the most deprived, or also to the most impacted households?
 
