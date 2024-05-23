@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and mentoring"
 permalink: /teaching/
 author_profile: true
 redirect from:
@@ -8,6 +8,8 @@ redirect from:
 ---
 
 ## University of California, Berkeley 
+
+### Undergraduate Research Apprentice Program (2023-2024)
 
 ### Econ 141: Econometric Analysis (Fall 2021)
 Graduate Student Instructor for Demian Pouzo, Economics Department, UC Berkeley.
