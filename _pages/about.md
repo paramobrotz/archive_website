@@ -22,8 +22,7 @@ In healthcare, the decision to adopt a product is a joint problem between the he
 ### Targeting Impact versus Deprivation
 With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://emiguel.econ.berkeley.edu/), [Michael Walker](http://www.michaelwwalker.me/) and [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/)  
 
-Conditional accept, American Economic Review
-[R&R, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf)
+[Conditional accept, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf)
 
 Should anti-poverty programs be targeted solely to the most deprived, or also to the most impacted households?
 
