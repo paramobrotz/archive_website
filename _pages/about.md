@@ -17,13 +17,17 @@ I am a PhD Candidate in the [Economics Department](https://www.econ.berkeley.edu
 ### Who calls the shots? How financial incentives impact the adoption of a new health technology
 Job Market Paper
 
+In healthcare, the decision to adopt a product is a joint problem between the healthcare professional and the patient. At the same time, subsidies have become an important policy tool to increase the adoption of new health technologies.  Using data from a randomized control trial (RCT) in Kenya, this paper employs a structural model of patient demand and provider counseling to study the welfare effects to the patient from the introduction of demand and supply side subsidies for a new contraceptive technology. The experimental variation and structural model allows to study the channels that lead to the diffusion of the new health technology, including the role of provider counseling, provider financial incentives and altruism, and patient’s preferences. Taken together, the results suggest that the provider's counseling role is key in increasing adoption of the new technology and making subsidy programs successful.
+
 ### Targeting Impact versus Deprivation
 With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://emiguel.econ.berkeley.edu/), [Michael Walker](http://www.michaelwwalker.me/) and [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/)  
 
-R&R, American Economic Review
+Conditional accept, American Economic Review
 [R&R, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf)
 
 Should anti-poverty programs be targeted solely to the most deprived, or also to the most impacted households?
+
+
 
 <!-- ## Other projects
 
