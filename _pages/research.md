@@ -25,7 +25,7 @@ With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://
 
 [Conditional accept, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf)
 
-Should anti-poverty programs be targeted solely to the most deprived, or also to the most impacted households?
+A large literature has examined how best to target anti-poverty programs to those most deprived in some sense (e.g., consumption). We examine the potential tradeoff between this objective and targeting those most impacted by such programs. We work in the context of an NGO cash transfer program in Kenya, employing recent advances in machine learning methods and dynamic outcome data to learn proxy means tests that jointly target both objectives. Targeting solely on the basis of deprivation is not attractive in this setting under standard social welfare criteria unless the planner’s preferences are extremely redistributive.
 
 <!-- ## Other projects
 
